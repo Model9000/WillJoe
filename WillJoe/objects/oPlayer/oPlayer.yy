@@ -1,5 +1,5 @@
 {
-    "id": "62528179-2ad5-47f8-89ae-797b81dd6516",
+    "id": "b5698598-46f2-475d-a93f-1d12531e720c",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "oPlayer",
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "6746344b-8ec3-4fad-8fd0-3b3663aabb78",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

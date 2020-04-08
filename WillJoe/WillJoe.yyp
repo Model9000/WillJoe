@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "b5698598-46f2-475d-a93f-1d12531e720c",
+            "Value": {
+                "id": "b4a8d341-d6e8-44ba-bedc-65cdfe74d972",
+                "resourcePath": "objects\\oPlayer\\oPlayer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bdb9dac2-9bcd-4ff0-ba68-ac68f1943ffe",
             "Value": {
                 "id": "ec8d1e21-a242-4117-a5c7-ff494678997b",
