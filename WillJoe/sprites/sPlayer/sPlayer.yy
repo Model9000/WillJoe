@@ -2,7 +2,7 @@
     "id": "6746344b-8ec3-4fad-8fd0-3b3663aabb78",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "palyer",
+    "name": "sPlayer",
     "For3D": false,
     "HTile": false,
     "VTile": false,

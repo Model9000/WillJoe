@@ -98,7 +98,15 @@
             "Key": "6746344b-8ec3-4fad-8fd0-3b3663aabb78",
             "Value": {
                 "id": "98bf1ac2-828d-4308-adf9-1c7f414f97f2",
-                "resourcePath": "sprites\\palyer\\palyer.yy",
+                "resourcePath": "sprites\\sPlayer\\sPlayer.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6f2965f4-5edb-495c-842b-0eb25b3c739b",
+            "Value": {
+                "id": "76149fdd-1849-4d5e-a7b8-03e0b326837a",
+                "resourcePath": "sprites\\sWall\\sWall.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -196,6 +204,14 @@
                 "id": "538d1622-a1fd-497d-a713-d2259e14e8c0",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f7807499-e2c1-4d9a-b470-65cd82782c5a",
+            "Value": {
+                "id": "51e35a7e-4429-4916-841a-13ae017d7769",
+                "resourcePath": "objects\\oWall\\oWall.yy",
+                "resourceType": "GMObject"
             }
         },
         {
