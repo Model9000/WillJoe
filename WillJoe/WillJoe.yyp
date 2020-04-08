@@ -207,14 +207,6 @@
             }
         },
         {
-            "Key": "f7807499-e2c1-4d9a-b470-65cd82782c5a",
-            "Value": {
-                "id": "51e35a7e-4429-4916-841a-13ae017d7769",
-                "resourcePath": "objects\\oWall\\oWall.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "fce35734-1b66-4928-b707-f57dbc5bbb6e",
             "Value": {
                 "id": "20ac6c33-c429-4c5f-b666-5a5a3d9980e9",
